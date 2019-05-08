@@ -1,6 +1,6 @@
 # Flutter Shop
 
-[<img src="https://assets.materialup.com/uploads/73e4eb79-d0f7-43c8-98c0-7578093b244f/preview.png">](https://www.uplabs.com/posts/furniture-app-eb441bf3-ec05-463b-928f-906e37d6a9f0)
+[<img src="https://repository-images.githubusercontent.com/185668952/9c2eb400-71b0-11e9-9cf1-9aaee9fbdf4e">](https://www.uplabs.com/posts/furniture-app-eb441bf3-ec05-463b-928f-906e37d6a9f0)
 
 
 For help getting started with Flutter, view our 

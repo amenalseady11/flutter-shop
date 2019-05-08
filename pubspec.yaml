@@ -1,0 +1,60 @@
+name: shop
+description: A new Flutter project.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  flutter_svg: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    -  assets/img/categories/bathroom.svg
+    -  assets/img/categories/living-room.svg
+    -  assets/img/categories/workspace.svg
+  fonts:
+    - family: SF Pro Text
+      fonts:
+        - asset: assets/fonts/sfpro/sf-pro-text-bold.ttf
+          weight: 600
+        - asset: assets/fonts/sfpro/sf-pro-text-heavy.ttf
+          weight: 700
+        - asset: assets/fonts/sfpro/sf-pro-text-light.ttf
+          weight: 100
+        - asset: assets/fonts/sfpro/sf-pro-text-regular.ttf
+        - asset: assets/fonts/sfpro/sf-pro-text-medium.ttf
+          weight: 500
+
+    - family: Circular Std
+      fonts:
+        - asset: assets/fonts/circular-std/CircularStd-Black.ttf
+          weight: 700
+        - asset: assets/fonts/circular-std/CircularStd-Bold.ttf
+          weight: 600
+        - asset: assets/fonts/circular-std/CircularStd-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/circular-std/CircularStd-Book.ttf
+
+    - family: Acre
+      fonts:
+        - asset: assets/fonts/Acre-medium.otf

@@ -21,6 +21,7 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^0.1.2
   flutter_svg: any
+  font_awesome_flutter: any
 
 dev_dependencies:
   flutter_test:
@@ -32,6 +33,8 @@ flutter:
     -  assets/img/categories/bathroom.svg
     -  assets/img/categories/living-room.svg
     -  assets/img/categories/workspace.svg
+    -  assets/img/trending/1.jpg
+    -  assets/img/trending/2.jpg
   fonts:
     - family: SF Pro Text
       fonts:

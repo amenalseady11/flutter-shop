@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'styles/palette.dart';
 import 'home.dart';
 
 void main() => runApp(MainApp());
